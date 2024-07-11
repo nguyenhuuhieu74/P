@@ -1,0 +1,11 @@
+[
+  {
+    "id": "id1",
+    "image": "images/products/tshirt.jpg",
+    "name": "Gildan Unisex-Adult Ultra Cotton Long Sleeve T-Shirt",
+    "rating": {
+      "stars": 4.5,
+      "count": 1437
+    }
+  }
+]  
